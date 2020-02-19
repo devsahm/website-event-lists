@@ -6,7 +6,7 @@
 <meta charset="utf-8">
 <meta name="description" content="">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Psycho-Oncology Society of Nigeria (POSON)</title>
+<title>PsychoOncology Society of Nigeria (POSON)</title>
 
 <link href="assets/css/bootstrap.css" rel="stylesheet">
 <link href="assets/css/font-awesome.min.css" rel="stylesheet">
